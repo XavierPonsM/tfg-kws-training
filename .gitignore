@@ -1,0 +1,9 @@
+data/
+data_good/
+output/
+artifacts/
+*.npy
+*.tflite
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
